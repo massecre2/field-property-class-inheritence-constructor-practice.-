@@ -1,0 +1,15 @@
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\04.10.2016NesneTabanlı\04.10.2016NesneTabanlı\bin\Debug\04.10.2016NesneTabanlı.exe.config
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\04.10.2016NesneTabanlı\04.10.2016NesneTabanlı\bin\Debug\04.10.2016NesneTabanlı.exe
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\04.10.2016NesneTabanlı\04.10.2016NesneTabanlı\bin\Debug\04.10.2016NesneTabanlı.pdb
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\04.10.2016NesneTabanlı\04.10.2016NesneTabanlı\obj\Debug\04.10.2016NesneTabanlı.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\04.10.2016NesneTabanlı\04.10.2016NesneTabanlı\obj\Debug\04.10.2016NesneTabanlı.exe
+C:\Users\Oğuzhan\Desktop\PDFLER\görsel\Form\04.10.2016NesneTabanlı\04.10.2016NesneTabanlı\obj\Debug\04.10.2016NesneTabanlı.pdb
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\04.10.2016NesneTabanlı\04.10.2016NesneTabanlı\bin\Debug\04.10.2016NesneTabanlı.exe.config
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\04.10.2016NesneTabanlı\04.10.2016NesneTabanlı\obj\Debug\04.10.2016NesneTabanlı.exe
+C:\Users\Oğuzhan\Desktop\oyunlar , kısayollar\PDFLER - WORD - EXCEL\görsel\Form\04.10.2016NesneTabanlı\04.10.2016NesneTabanlı\obj\Debug\04.10.2016NesneTabanlı.pdb
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\04.10.2016NesneTabanlı\04.10.2016NesneTabanlı\bin\Debug\04.10.2016NesneTabanlı.exe.config
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\04.10.2016NesneTabanlı\04.10.2016NesneTabanlı\bin\Debug\04.10.2016NesneTabanlı.exe
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\04.10.2016NesneTabanlı\04.10.2016NesneTabanlı\bin\Debug\04.10.2016NesneTabanlı.pdb
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\04.10.2016NesneTabanlı\04.10.2016NesneTabanlı\obj\Debug\04.10.2016NesneTabanlı.csprojResolveAssemblyReference.cache
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\04.10.2016NesneTabanlı\04.10.2016NesneTabanlı\obj\Debug\04.10.2016NesneTabanlı.exe
+C:\Users\Oğuzhan\Desktop\MASAÜSTÜ\masaüstü\visual studio\Form\04.10.2016NesneTabanlı\04.10.2016NesneTabanlı\obj\Debug\04.10.2016NesneTabanlı.pdb
